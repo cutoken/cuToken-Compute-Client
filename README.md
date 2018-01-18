@@ -12,5 +12,5 @@ Create Cluster
 
 
 [Home page]: https://github.com/cutoken/cuToken-Compute-Client/blob/master/screenshots/computeClient1.png "Home page"
-[Cloud Console]: https://github.com/cutoken/cuToken-Compute-Client/blob/master/screenshots/computeClient2.png "Cloud Console"
+[Cloud Console]: https://github.com/cutoken/cuToken-Compute-Client/blob/master/screenshots/computeClient2mod.png "Cloud Console"
 [Create Cluster]: https://github.com/cutoken/cuToken-Compute-Client/blob/master/screenshots/computeClient3.png "Create Cluster"
